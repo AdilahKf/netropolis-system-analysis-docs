@@ -114,8 +114,8 @@ Empat aktor, 22 use case yang dikelompokkan dalam enam modul.
 **Khusnul Fikroh Adillah**
 Program Studi Sistem Informasi, Universitas Pamulang
 
-- LinkedIn: _[tambahkan tautan]_
-- Email: _[tambahkan email]_
+- LinkedIn: _[[AdilahKf](https://www.linkedin.com/in/adilahkf/)]_
+- Email: _khusnulfikroh@gmail.com_
 
 ---
 
