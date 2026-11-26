@@ -10,10 +10,9 @@ Repositori ini adalah portofolio saya sebagai **IT System Analyst**. Isinya menu
 
 ## Ringkasan Proyek
 
-**Masalah.** Reservasi PC dilakukan manual lewat komunikasi dengan operator, dicatat di papan tulis, dan transaksi dicatat di Excel. Akibatnya terjadi antrean, risiko kesalahan hitung, duplikasi data dan bentrokan jadwal, laporan yang lama disusun, serta tidak adanya pencatatan peralatan.
+**Masalah:** Reservasi PC dilakukan manual lewat komunikasi dengan operator, dicatat di papan tulis, dan transaksi dicatat di Excel. Akibatnya terjadi antrean, risiko kesalahan hitung, duplikasi data dan bentrokan jadwal, laporan yang lama disusun, serta tidak adanya pencatatan peralatan.
 
-**Solusi.** Website terpusat dengan empat peran pengguna (Pelanggan, Operator, Super Admin, Owner) yang mencakup:
-
+**Solusi:** Website terpusat dengan empat peran pengguna (Pelanggan, Operator, Super Admin, Owner) yang mencakup:
 - Pemesanan online dalam tiga langkah (paket bundel atau per jam, pilih zona dan nomor PC, harga terhitung otomatis)
 - Pengelolaan pemesanan oleh operator (konfirmasi, ubah, batal, verifikasi kedatangan) dengan kode verifikasi yang dikirim via WhatsApp API
 - Inventori peralatan serta stok makanan dan minuman
